@@ -5,4 +5,4 @@
 # to use this:
 1. install and learn Tensorflow object detection API.
 2. copy vrd_evaluation.py to C:\*\models\research\object_detection\utils
-3. run 
+3. download faster_rcnn_resnet_101 model
