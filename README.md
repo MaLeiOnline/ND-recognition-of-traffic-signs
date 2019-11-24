@@ -19,6 +19,12 @@ second, run sustech-recognition-of-traffic-signs/traffic-sign-detection-master/R
 from the step4 we get the output img in sustech-recognition-of-traffic-signs/traffic-sign-detection-master/output.
 then run classification.ipynb to get the result.
 
+## what should do next:
+### 1. Find a way to test the model in engineering and evaluate the accuracy.
+### 2. Change the model, compare the differences, find the most appropriate one.
+
+## to get other models, download in here:
+https://github.com/aarcosg/traffic-sign-detection
 
 by Lei, 
 2019.11.24
