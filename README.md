@@ -23,8 +23,11 @@ then run classification.ipynb to get the result.
 ### 1. Find a way to test the model in engineering and evaluate the accuracy.
 ### 2. Change the model, compare the differences, find the most appropriate one.
 
-## to get other models, download in here:
+## to get other trained models, download in here:
 https://github.com/aarcosg/traffic-sign-detection
+
+## you can also learn to train your own models. using this:
+https://github.com/MaLeiOnline/train-model-of-object-detection
 
 by Lei, 
 2019.11.24
