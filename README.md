@@ -5,11 +5,11 @@
 # instruction
 ## to run this, you should:
 ### 1. install and learn Tensorflow object detection API.
-### 2. install GTSDB and GTSRB dataset.
+### 2. download GTSDB and GTSRB dataset.
 ### 3. copy vrd_evaluation.py to C:\*\models\research\object_detection\utils
 ### 4. detection:
 
-first,download faster_rcnn_resnet_101 model. then copy it to the sustech-recognition-of-traffic-signs/traffic-sign-detection-master/models(you should new this folder by yourself)
+first,download faster_rcnn_resnet_101 model. then copy it to sustech-recognition-of-traffic-signs/traffic-sign-detection-master/models(you should new this folder by yourself)
 , download list: https://drive.google.com/open?id=15OxyPlqyOOlUdsbUmdrexKLpHy1l5tP9
 
 second, run sustech-recognition-of-traffic-signs/traffic-sign-detection-master/Run_models_on_new_images-Copy1.ipynb
