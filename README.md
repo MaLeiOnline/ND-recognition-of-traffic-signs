@@ -26,8 +26,6 @@ then run classification.ipynb to get the result.
 ## to get other trained models, download in here:
 https://github.com/aarcosg/traffic-sign-detection
 
-## you can also learn to train your own models. using this:
-https://github.com/MaLeiOnline/train-model-of-object-detection
 
 by Lei, 
 2019.11.24
